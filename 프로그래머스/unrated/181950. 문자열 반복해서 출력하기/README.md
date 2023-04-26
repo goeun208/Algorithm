@@ -39,4 +39,6 @@ Empty
 <div class="highlight"><pre class="codehilite"><code>stringstringstringstringstring
 </code></pre></div>
 
+<h3>문자열 반복 시 repeat()을 사용하면 더욱 빠르고 쉽다! str.repeat(n) </h3>
+
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
