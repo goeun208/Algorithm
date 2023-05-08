@@ -45,6 +45,6 @@ Empty
 <p>※2023년 05월 03일 제한사항이 수정되었습니다.</p>
 
 <h3>TIL</h3>
-<p>문자를 아스키코드로 비교 시 charCodeAt() 함수 사용! ex)str[i].charCodeAt() >= 97 (a = 97 A = 65) </p>
+<p>문자를 아스키코드로 비교 시 charCodeAt() 함수 사용! ex) str[i].charCodeAt() >= 97 (a = 97 A = 65) </p>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
