@@ -69,5 +69,11 @@ Empty
 <li>예제 2번의 <code>my_string</code>에서 인덱스 7부터 <code>overwrite_string</code>의 길이만큼에 해당하는 부분은 "29b8UYP"이고 이를 "merS123"로 바꾼 "ProgrammerS123"를 return 합니다.</li>
 </ul>
 
+<hr>
+<p> TIL </p>
+<ul>
+    <li>문자열 자르기 my_string.slice(beginIndex, endIndex)</li>
+    <li>my_string.slice(-2) 음수 사용 시 마지막 인덱스부터 출력 ex. 'abcd'.slice(-2) => 'cd'</li>
+</ul>      
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
