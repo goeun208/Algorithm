@@ -75,9 +75,9 @@ Empty
 <li>분모가 1인 경우까지도 생각하기!!<li>
 <li>최대공약수 구하는 함수를 좀 더 깔끔하게 정리해보자</li>
 <p>프로그래머스 풀이 참고</p>
-function findGCD(a, b){
-    return (a%b)? findGCD(b, a%b) : b;
-}
+        function findGCD(a, b){
+                return (a%b)? findGCD(b, a%b) : b;
+        }
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
