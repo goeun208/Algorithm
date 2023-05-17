@@ -49,5 +49,14 @@ Empty
 </tr>
 </tbody>
       </table>
+      
+<hr>
+
+<p>TIL</p>
+<ul>
+    <li>문자열을 각 문자로 자를 땐 split() 함수 사용하기</li>
+    <li>map()을 사용하여 더 간단하게 짜보자!</li>
+<ul>
+
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
