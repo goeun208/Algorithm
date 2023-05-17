@@ -45,5 +45,7 @@ Empty
 </tr>
 </tbody>
       </table>
+      
+<li>쉼표 제거하려면 .join('') 표기</li>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
