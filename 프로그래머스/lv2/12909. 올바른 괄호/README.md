@@ -64,5 +64,10 @@ Empty
 <p>입출력 예 #1,2,3,4<br>
 문제의 예시와 같습니다.</p>
 
+<hr>
 
+**TIL
+<li>')'가 '('보다 앞에 나오는 경우, 모든 반복문을 돌지 않고 종료해야 효율성 체크2 만족</li>
+<li>삼항연산자에서는 return을 사용할 수 없음</li>
+<br>
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
