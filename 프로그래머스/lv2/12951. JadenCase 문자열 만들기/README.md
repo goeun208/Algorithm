@@ -53,5 +53,13 @@ Empty
 
 <p>※ 공지 - 2022년 1월 14일 제한 조건과 테스트 케이스가 추가되었습니다.</p>
 
+<hr>
+**TIL
+<li>
+        index로 접근하면 런타임 에러.
+        <li>공백을 기준으로 split을 하게 되면 '빈 문자열'이 요소로 있는 경우가 생김. 해당 요소를 배열 인덱스로 접근할 경우 undefined를 반환하기 때문에 toUpperCase()에서 런타임 오류가 발생!!</li>
+</li>
+<li>.charAt() 함수를 사용하자</li>
 
+<br>
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
