@@ -57,6 +57,6 @@ Empty
 **TIL
 <li>문자열의 길이는 4 또는 6이다. => 입력조건을 직접 설정해주어야 한다!!</li>
 <li>지수표현식으로 e가 포함되는 문자열도 숫자로 인식 => 문자열에 e가 포함되는 경우 false를 리턴해준다.</li>
-
+<br>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
