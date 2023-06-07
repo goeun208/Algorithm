@@ -37,5 +37,6 @@ str은 부호(+,-)와 숫자로만 구성되어 있고, 잘못된 값이 입력�
 **TIL
 <li>배열 자르기 => splice()</li>
 <li>문자열 자르기 => slice()</li>
+<br>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
