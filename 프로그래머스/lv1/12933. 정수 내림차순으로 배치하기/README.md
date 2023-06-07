@@ -37,5 +37,12 @@ Empty
 </tr>
 </tbody>
       </table>
+      
+<hr>
+**TIL
+<li>배열 거꾸로 뒤집기!! => .sort().reverse()</li>
+<li>함수를 사용해 더 간단하게 나타내보자</li>
+<br>
+
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
