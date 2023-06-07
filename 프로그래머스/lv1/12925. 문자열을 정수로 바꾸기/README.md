@@ -32,5 +32,10 @@ Empty
 <p>예를들어 str이 "1234"이면 1234를 반환하고, "-1234"이면 -1234를 반환하면 됩니다.<br>
 str은 부호(+,-)와 숫자로만 구성되어 있고, 잘못된 값이 입력되는 경우는 없습니다.</p>
 
+<hr>
+
+**TIL
+<li>배열 자르기 => splice()</li>
+<li>문자열 자르기 => slice()</li>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
