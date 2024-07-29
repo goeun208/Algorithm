@@ -1,3 +1,9 @@
 function solution(arr){
-    return arr.filter((val, idx) => val !== arr[idx + 1]);
+    let stack = [];
+    for(const el of arr){
+        if(stack.length === 0 || stack[stack.length - 1] !== el){
+            stack.push(el);
+        }
+    }
+    return stack;
 } 
